@@ -1,0 +1,13 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/ 
+    
+  - title: "Résumé"
+    url: /cv/
+
+  - title: "Historical Nonsenses"
+    url: /nonsense/    
+
+  #- title: "Teaching"
+   # url: /teaching/ 

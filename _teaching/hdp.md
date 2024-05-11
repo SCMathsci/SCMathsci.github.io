@@ -2,8 +2,8 @@
 title: "Teaching experience"
 collection: teaching
 type: "graduate course"
-permalink: /teaching/teaching-1
-venue: "University ..., Department"
+permalink: /teaching/hdp
+venue: "Ruhr-Universität, Mathematics"
 date: 2023-05-01
 location: "Bochum, Germany"
 ---

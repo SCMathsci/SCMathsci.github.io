@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/Generating-an-equidistributed-net
 venue: "TIFR"
-date: 2019-08-01
+date: 2019-08-31
 location: "Mumbai, India"
 ---
 

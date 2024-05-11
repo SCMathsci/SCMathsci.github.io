@@ -1,7 +1,7 @@
 ---
 title: "Teaching experience"
 collection: teaching
-type: "Undergraduate course"
+type: "graduate course"
 permalink: /teaching/teaching-1
 venue: "University ..., Department"
 date: 2023-05-01
